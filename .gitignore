@@ -1,0 +1,7 @@
+logs/
+*.log
+.theme/
+.codex_backup/
+.moonraker.conf.bkp
+mainsail.cfg
+timelapse.cfg
